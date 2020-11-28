@@ -7,4 +7,8 @@ class HomesnController < ActionController::API
 		user.seconf
 		
 	end
+
+	def without_Cherry_pick
+		
+	end
 end
