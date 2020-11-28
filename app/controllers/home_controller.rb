@@ -4,6 +4,7 @@ class HomesnController < ActionController::API
 		puts 'hii'
 		user = User.all
 		user.first
+		user.seconf
 		
 	end
 end
