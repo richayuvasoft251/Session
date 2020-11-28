@@ -11,4 +11,8 @@ class HomesnController < ActionController::API
 	def without_Cherry_pick
 		
 	end
+
+	def with_cherry_pick
+		
+	end
 end
